@@ -2,13 +2,13 @@
 
 [![Age](https://img.shields.io/badge/Age-22-blue)](https://shields.io)
 [![Profile Views](https://komarev.com/ghpvc/?username=arghyadipchak)](https://github.com/antonkomarev/github-profile-views-counter)
-[![Website](https://img.shields.io/badge/-arghyac.com-313244?style=flat-square&logo=github&logoColor=white)](https://arghyac.com/)
+[![Website](https://img.shields.io/badge/-arghyac.com-313244)](https://arghyac.com/)
 
 - 🏳️‍🌈 Pronouns: He/Him
 - 🗣️ Multilingual: Bengali, English, Hindi, German (A1)
-- 👨‍🎓 MS Computer Science Student at [Chennai Mathematical Institute](https://www.cmi.ac.in)
+- 👨‍🎓 MS by Research (CSE) Student at [IIT Bombay](https://www.cse.iitb.ac.in/)
 - 💼 System Engineer (Intern) at [Subconscious Compute](https://www.subcom.tech)
-- 💻 Interested in Cloud, Computer Networks and Operating Systems
+- 💻 Interested in Computer Networks
 
 [![GitHub](https://img.shields.io/badge/-arghyadipchak-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/arghyadipchak/)
 [![LinkedIn](https://img.shields.io/badge/-arghyadipchak-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arghyadipchak/)
