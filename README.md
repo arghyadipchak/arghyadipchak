@@ -1,4 +1,4 @@
-## Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Arghyadip
+## Hi <img alt="Hand Wave" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Arghyadip
 
 [![Age](https://img.shields.io/badge/Age-22-blue)](https://shields.io)
 [![Profile Views](https://komarev.com/ghpvc/?username=arghyadipchak)](https://github.com/antonkomarev/github-profile-views-counter)
@@ -152,6 +152,6 @@
 ## ⚡ GitHub Stats
 
 <p><a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=arghyadipchak&count_private=true&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arghyadipchak&hide=html&layout=donut&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5">
+  <img alt="GitHub Stats" align="center" src="https://github-readme-stats.vercel.app/api?username=arghyadipchak&count_private=true&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5">
+  <img alt="Language Stats" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arghyadipchak&hide=html&layout=donut&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5">
 </a></p>
