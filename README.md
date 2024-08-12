@@ -1,4 +1,4 @@
-## Hi <img alt="Hand Wave" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Arghyadip
+# Hi <img alt="Hand Wave" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Arghyadip
 
 [![Age](https://img.shields.io/badge/Age-22-blue)](https://shields.io)
 [![Profile Views](https://komarev.com/ghpvc/?username=arghyadipchak)](https://github.com/antonkomarev/github-profile-views-counter)
