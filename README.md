@@ -6,14 +6,14 @@
 
 - 🏳️‍🌈 Pronouns: He/Him
 - 🗣️ Multilingual: Bengali, English, Hindi, German (A1)
-- 👨‍🎓 MS by Research (CSE) Student at [IIT Bombay](https://www.cse.iitb.ac.in/)
-- 💼 System Engineer (Intern) at [Subconscious Compute](https://www.subcom.tech)
+- 👨‍🎓 MS by Research Student at [IIT Bombay](https://www.cse.iitb.ac.in/)
+- 💼 Research Intern at [NUS](https://www.comp.nus.edu.sg)
 - 💻 Interested in Computer Networks
 
 [![GitHub](https://img.shields.io/badge/-arghyadipchak-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/arghyadipchak/)
 [![LinkedIn](https://img.shields.io/badge/-arghyadipchak-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arghyadipchak/)
-[![Instagram](https://img.shields.io/badge/-arghyadipchak-E4405F?logo=instagram&logoColor=white)]([mailto:arghyadip.chak16@gmail.com](https://www.instagram.com/arghyadipchak/))
-[![GMail](https://img.shields.io/badge/-arghyadip.chak16@gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:arghyadip.chak16@gmail.com)
+[![Instagram](https://img.shields.io/badge/-arghyadipchak-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/arghyadipchak/)
+[![GMail](https://img.shields.io/badge/-dev@arghyac.com-EA4335?logo=gmail&logoColor=white)](mailto:dev@arghyac.com)
 
 ## 🚀💻 Technologies & Tools
 
