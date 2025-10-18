@@ -1,6 +1,6 @@
 # Hi <img alt="Hand Wave" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Arghyadip
 
-[![Age](https://img.shields.io/badge/Age-23-blue)](https://shields.io)
+[![Age](https://img.shields.io/badge/Age-24-blue)](https://shields.io)
 [![Profile Views](https://komarev.com/ghpvc/?username=arghyadipchak)](https://github.com/antonkomarev/github-profile-views-counter)
 [![Website](https://img.shields.io/badge/-arghyac.com-313244)](https://arghyac.com/)
 
@@ -42,8 +42,8 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
 ![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![WXT](https://img.shields.io/badge/-WXT-67D45E?style=flat-square)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![WXT](https://img.shields.io/badge/-WXT-67D45E?style=flat-square&logo=wxt&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS-663399?style=flat-square&logo=css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![MUI](https://img.shields.io/badge/-MUI-007FFF?style=flat-square&logo=mui&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
@@ -141,7 +141,7 @@
 <summary><b>Desktop</b></summary>
 
 ![Alacritty](https://img.shields.io/badge/-Alacritty-F46D01?style=flat-square&logo=alacritty&logoColor=white)
-![DBeaver](https://img.shields.io/badge/-DBeaver-382924?style=flat-square)
+![DBeaver](https://img.shields.io/badge/-DBeaver-382924?style=flat-square&logo=dbeaver&logoColor=white)
 ![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/-Insomnia-4000BF?style=flat-square&logo=insomnia&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/-Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white)
