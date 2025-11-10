@@ -1,23 +1,22 @@
-# Hi <img alt="Hand Wave" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Arghyadip
+# Hi <img alt="Hand Wave" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Arghyadip
 
-[![Age](https://img.shields.io/badge/Age-24-blue)](https://shields.io)
-[![Profile Views](https://komarev.com/ghpvc/?username=arghyadipchak)](https://github.com/antonkomarev/github-profile-views-counter)
+🦀 **Rustacean** | 🔬 **Research Student @ [SynerG Lab, IIT Bombay](https://www.cse.iitb.ac.in/synerg/)**
+
 [![Website](https://img.shields.io/badge/-arghyac.com-313244)](https://arghyac.com/)
-
-- 🏳️‍🌈 Pronouns: He/Him
-- 🗣️ Multilingual: Bengali, English, Hindi, German (A1)
-- 👨‍🎓 MS by Research Student at [IIT Bombay](https://www.cse.iitb.ac.in/)
-- 💼 Research Intern at [NUS](https://www.comp.nus.edu.sg)
-- 💻 Interested in Computer Networks
-
-[![GitHub](https://img.shields.io/badge/-arghyadipchak-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/arghyadipchak/)
-[![LinkedIn](https://img.shields.io/badge/-arghyadipchak-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arghyadipchak/)
+[![LinkedIn](https://img.shields.io/badge/-arghyadipchak-0A66C2)](https://www.linkedin.com/in/arghyadipchak/)
 [![Instagram](https://img.shields.io/badge/-arghyadipchak-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/arghyadipchak/)
 [![GMail](https://img.shields.io/badge/-dev@arghyac.com-EA4335?logo=gmail&logoColor=white)](mailto:dev@arghyac.com)
 
+## About Me
+
+- 🎓 MS by Research in Computer Science @ [Dept of CSE, IIT Bombay](https://www.cse.iitb.ac.in/)
+- 📡 Research Focus: 5G Networks & Network Measurements
+- 🦀 Rust enthusiast exploring systems programming and network tooling
+- 🏠 Passionate about self-hosting and open source
+
 ## 🚀💻 Technologies & Tools
 
-<details open>
+<details>
 <summary><b>Language</b></summary>
 
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
@@ -35,7 +34,7 @@
 
 </details>
 
-<details open>
+<details>
 <summary><b>UI & Web Dev</b></summary>
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -62,7 +61,7 @@
 
 </details>
 
-<details open>
+<details>
 <summary><b>Blockchain</b></summary>
 
 ![Web3.js](https://img.shields.io/badge/-Web3.js-F16822?style=flat-square&logo=web3dotjs&logoColor=white)
@@ -70,7 +69,7 @@
 
 </details>
 
-<details open>
+<details>
 <summary><b>Data Science & Machine Learning</b></summary>
 
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
@@ -84,7 +83,7 @@
 
 </details>
 
-<details open>
+<details>
 <summary><b>Database</b></summary>
 
 ![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
@@ -96,7 +95,7 @@
 
 </details>
 
-<details open>
+<details>
 <summary><b>Typesetting</b></summary>
 
 ![LaTeX](https://img.shields.io/badge/-LaTex-008080?style=flat-square&logo=latex&logoColor=white)
@@ -104,7 +103,7 @@
 
 </details>
 
-<details open>
+<details>
 <summary><b>Version Control & DevOps</b></summary>
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -114,7 +113,7 @@
 
 </details>
 
-<details open>
+<details>
 <summary><b>Cloud & Infrastructure</b></summary>
 
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
@@ -126,7 +125,7 @@
 
 </details>
 
-<details open>
+<details>
 <summary><b>Platform</b></summary>
 
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -137,7 +136,7 @@
 
 </details>
 
-<details open>
+<details>
 <summary><b>Desktop</b></summary>
 
 ![Alacritty](https://img.shields.io/badge/-Alacritty-F46D01?style=flat-square&logo=alacritty&logoColor=white)
